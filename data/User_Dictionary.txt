@@ -1,0 +1,19 @@
+악의적	NNG	1
+비위생	NNG	1
+대박	NNG	1
+업무방해	NNG	1
+자발적	NNG	1
+더본코리아	NNP	1
+더본	NNP	1
+골목식당	NNP	1
+빽다방	NNP	1
+홍콩반점	NNP	1
+짜장데이	NNP	1
+빽햄	NNP	1
+남극의 세프	NNP	1
+흑백 요리사	NNP	1
+전문경영인	NNG	1
+장사꾼	NNG	1
+문어발	NNG	1
+골목상권	NNG	1
+소상공인	NNG	1
